@@ -23,14 +23,25 @@ I specialize in **Data Engineering, Machine Learning, and AI**—always eager to
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Cloud-Services-blueviolet?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud"/>
-  <img src="https://img.shields.io/badge/Hosting-00c7b7?style=for-the-badge&logo=vercel&logoColor=white" alt="Hosting"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
 </p>
 
-🛰️ Solid experience in cloud services and hosting—ensuring backend data is expertly analyzed, managed, and deployed.
+🛰️ **Solid experience in cloud services and backend systems**, ensuring data is securely managed, analyzed, and deployed.  
+I focus on delivering reliable, high-performance applications built on modern AI and data technologies:
+
+- ⚙️ Expertise in **Pandas** and **data preprocessing** for clean, structured datasets.  
+- 🧠 Skilled in **Machine Learning algorithms** and model optimization for practical results.  
+- ☁️ Proficient in **cloud deployment** and **backend safety** for scalable solutions.  
+- 🚀 Dedicated to crafting **powerful, efficient applications** that drive innovation in the coding world.
 
 ---
 
